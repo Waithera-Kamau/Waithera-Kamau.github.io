@@ -9,22 +9,25 @@ author_profile: true
 > Welcome to my digital home
 
 ## The Story Behind the Data
-Every spreadsheet tells a story. Every vulnerability patched protects someone's livelihood. Every dashboard I build bridges the gap between raw information and life-changing decisions.
+Every spreadsheet tells a story. Every vulnerability patched protects someone's livelihood. Every dashboard I built bridged the gap between raw information and life-changing decisions.
 
 **I'm Cynthia Kamau, and I turn data into hope.**
 
 ## 🎯From Numbers to Impact
 At the World Food Programme, I didn't just analyze data—I traced the digital threads that connected donors to hungry families, logistics to life-saving supplies, and security protocols to the protection of the world's most vulnerable populations.
 
-*My work starts with Python scripts and Tableau visualizations, but it ends with real people receiving the help they need.*
+*My work started with Python scripts and Tableau visualizations, but it ended with real people receiving the help they need.*
 
 ## 🌍The Unlikely Path
 Banking taught me precision. IT support taught me patience. But humanitarian work? That taught me purpose.
-From processing transactions at Equity Bank to mapping geospatial assets from space, my journey has been anything but linear. Each role revealed a new piece of who *I'm becoming—someone who sees the human story hidden in every dataset.*
+From processing transactions at Equity Bank to mapping geospatial assets from space and safegurading assets, my journey has been anything but linear. Each role revealed a new piece of who *I'm becoming—someone who sees the human story hidden in every vulnerability.*
 
 ## 💡What Keeps Me Curious
 The intersection of technology and humanity. How can we make data more accessible? How do we secure systems without creating barriers? How do we ensure that our digital tools serve those who need them most?
-*These questions drive everything I do, from the vulnerability assessments I conduct to the peace-building reports I write.*
+*These questions drive everything I do, from the vulnerability assessments I conduct to the peace-building reports I wrote.*
+- I Led vulnerability management for 6+ servers using Qualys
+- Reduced critical patch deployment time by 40% through automated verification
+*"A vulnerability isn't just a CVE ID - it's a potential breach that could compromise food delivery systems or donor data."*
 
 But here’s the thing—I love learning. Whether it’s diving into the latest cybersecurity frameworks, exploring ethical AI, or geeking out over data visualization techniques, I’m always hungry to know more. Every new skill, every fresh perspective, every "Aha!" moment fuels me. The world is a giant puzzle, and I’m here for every piece.
 
