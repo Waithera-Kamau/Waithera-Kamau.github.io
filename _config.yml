@@ -16,7 +16,7 @@
 title: Waithera Kamau
 email: cynthiawaitherakamau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- a Cybersecurity and Data Analyst passionate about transforming data into insights and securing digital systems. With certifications in AWS, (ISC)², and IBM, I build dashboards, automate workflows, and strengthen IT infrastructure
+ Cybersecurity & Data Analyst | AWS & (ISC)² Certified | ISACA Kenyan Chapter | ISC2 Kenyan Chapter
 medium_username: Waithera Kamau
 github_username: Waithera-Kamau
 minimal_mistakes_skin: default
@@ -60,22 +60,22 @@ author:
   avatar : "/assets/images/SPP_5383.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Portfolio Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://waithera-kamau.github.io/"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@ythera32"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Waithera-Kamau"
-    - label: "Linked-In"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/waithera-kamau/"
 
 footer:
   links:
-    - label: "Linked In"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/waithera-kamau/"
     - label: "GitHub"
