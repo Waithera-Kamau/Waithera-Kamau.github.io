@@ -1,8 +1,58 @@
 ---
-permalink: /about/
+layout: single
 title: "About"
+permalink: /about/
+header:
+  overlay_color: "#1a2d4f"
+  overlay_image: /assets/images/blog2.jpg  # Suggested: You working on a dashboard or secure server
+excerpt: "I turn complex data into secure solutions that drive humanitarian impact."
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<div class="about-container">
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## **Data Guardian. Storyteller. Problem-Solver.**
+
+Hi, I'm Cynthia Kamau. At the intersection of cybersecurity and data analytics, I build systems that protect vulnerable communities while empowering decision-makers.
+
+### **My Approach**
+- 🔐 **Security-First Analytics**: Every dashboard I design begins with threat modeling
+- 🌍 **Context-Aware Solutions**: Tailored for challenging environments (tested in Garissa's conflict zones)
+- 🤝 **Human-Centric Tech**: Trained 200+ staff on secure data practices
+
+</div>
+
+---
+
+## **Core Capabilities**
+
+<div class="skills-grid">
+
+### **Cybersecurity**
+- Vulnerability management (Qualys)
+- Cloud security (AWS)
+- Firewall/network monitoring
+
+### **Data Analytics**
+- Interactive dashboards (Tableau/Power BI)
+- Geospatial analysis (Google Earth Pro)
+- Python automation
+
+### **Field-Tested Skills**
+- ODK/Kobo toolbox deployment
+- Low-bandwidth solutions
+- Cross-cultural user training
+  
+</div>
+
+---
+
+## **Beyond the Screen**
+When I'm not securing systems or building dashboards:
+- Volunter at the Center for Cyber Safety and Education
+- Volunteer at Red Cross focusing on Disaster and Humanitarian Relief 
+- Advocate for ethical AI in East Africa
+- Write blogs on medium focused on self-growth
+
+*"Data without security is risk. Security without insight is waste. I bridge both worlds."*
+
+[Download Full CV](#) • [See My Toolkit](#)  <!-- Link to resume PDF and skills page -->
