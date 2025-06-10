@@ -24,7 +24,7 @@ From processing transactions at Equity Bank to mapping geospatial assets from sp
 
 ## 💡What Keeps Me Curious
 The intersection of technology and humanity. How can we make data more accessible? How do we secure systems without creating barriers? How do we ensure that our digital tools serve those who need them most?
-*These questions drive everything I do, from the vulnerability assessments I conduct to the peace-building reports I wrote.*
+*These questions drive everything I do, from the vulnerability assessments I conducted to the peace-building reports I wrote.*
 - I Led vulnerability management for 6+ servers using Qualys
 - Reduced critical patch deployment time by 40% through automated verification
 *"A vulnerability isn't just a CVE ID - it's a potential breach that could compromise food delivery systems or donor data."*
