@@ -22,4 +22,4 @@ Whether you're in tech, working in development, or on your own journey of self-d
 
 > Protection goes beyond data. Let's build safer systems — and stronger selves.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or explore my writing and projects below.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/waithera-kamau/) or explore my writing and projects below.
