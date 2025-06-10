@@ -22,7 +22,6 @@ Hi, I'm Cynthia Kamau. At the intersection of cybersecurity and data analytics, 
 
 ## **Core Capabilities**
 
-
 ### **Cybersecurity**
 - Vulnerability management (Qualys)
 - Cloud security (AWS)
@@ -49,4 +48,4 @@ When I'm not securing systems or building dashboards:
 
 *"Data without security is risk. Security without insight is waste. I bridge both worlds."*
 
-[Download Full CV](#) • [See My Toolkit](#)  <!-- Link to resume PDF and skills page -->
+[Download Full CV](/assets/downloads/cynthia_kamau_resume.pdf){: .btn .btn--primary} • 
