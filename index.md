@@ -5,7 +5,6 @@
 layout: home
 author_profile: true
 ---
-# Welcome to my digital home.
 
 ## The Story Behind the Data
 Every spreadsheet tells a story. Every vulnerability patched protects someone's livelihood. Every dashboard I build bridges the gap between raw information and life-changing decisions.
