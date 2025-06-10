@@ -6,20 +6,22 @@ layout: home
 author_profile: true
 ---
 
-Welcome to my digital home.
+> Welcome to my digital home.
 
-I'm Cynthia Kamau — a cybersecurity analyst, data enthusiast, and passionate advocate for digital protection in humanitarian contexts. With experience at the World Food Programme and a strong foundation in IT support, I've worked on securing systems, solving vulnerabilities with Qualys, and enhancing internal visibility through data-driven insights.
+#The Story Behind the Data
+Every spreadsheet tells a story. Every vulnerability patched protects someone's livelihood. Every dashboard I build bridges the gap between raw information and life-changing decisions.
 
-I use this space to share my journey in cybersecurity, reflections on personal growth, and research on the intersection of technology and humanitarian work.
+**I'm Cynthia Kamau, and I turn data into hope.**
 
-### What You'll Find Here:
-- Weekly cybersecurity articles — every Wednesday.
-- Research insights and tools for securing humanitarian organizations.
-- Reflections on healing, boundaries, and building emotional intelligence.
-- Resources for personal and professional growth.
+#From Numbers to Impact
+At the World Food Programme, I don't just analyze data—I trace the digital threads that connect donors to hungry families, logistics to life-saving supplies, and security protocols to the protection of the world's most vulnerable populations.
 
-Whether you're in tech, working in development, or on your own journey of self-discovery — I hope you find something here that resonates.
+*My work starts with Python scripts and Tableau visualizations, but it ends with real people receiving the help they need.*
 
-> Protection goes beyond data. Let's build safer systems — and stronger selves.
+#The Unlikely Path
+Banking taught me precision. IT support taught me patience. But humanitarian work? That taught me purpose.
+From processing transactions at Equity Bank to mapping geospatial assets from space, my journey has been anything but linear. Each role revealed a new piece of who *I'm becoming—someone who sees the human story hidden in every dataset.*
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/waithera-kamau/) or explore my writing and projects below.
+#What Keeps Me Curious
+The intersection of technology and humanity. How can we make data more accessible? How do we secure systems without creating barriers? How do we ensure that our digital tools serve those who need them most?
+*These questions drive everything I do, from the vulnerability assessments I conduct to the peace-building reports I write.*
