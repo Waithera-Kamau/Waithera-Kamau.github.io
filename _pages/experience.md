@@ -22,7 +22,7 @@ excerpt: "From cybersecurity to data analytics – building solutions that drive
 
 ---
 
-### **Smart Regional Consultants | Nairobi**  
+### **Smart Regional Consultants | Dennis Pritt Rd, Biblica-Nairobi**  
 **IT Support Specialist**  
 *January 2023 – April 2023*  
 - Resolved hardware/software issues with 95% user satisfaction  
@@ -31,7 +31,7 @@ excerpt: "From cybersecurity to data analytics – building solutions that drive
 
 ---
 
-### **Equity Bank Limited | Nairobi**  
+### **Equity Bank Limited | NHIF Building, Community-Nairobi**  
 **Relationship Officer**  
 *January 2019 – August 2019*  
 - Processed financial transactions with 100% compliance accuracy  
