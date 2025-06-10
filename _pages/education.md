@@ -40,7 +40,7 @@ excerpt: "Validating expertise through industry-recognized credentials."
 ## Academic Credentials
 
 **Jomo Kenyatta University**  
-*BSc Computer Technology | 2018-2024*  
+*BSc Computer Technology | 2019-2024*  
 - Specialized in network systems and data analysis  
 - Thesis: Preventative Maintenance through XGBoosting Algorithm  
 
