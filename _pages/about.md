@@ -8,8 +8,6 @@ header:
 excerpt: "I turn complex data into secure solutions that drive humanitarian impact."
 ---
 
-<div class="about-container">
-
 ## **Data Guardian. Storyteller. Problem-Solver.**
 
 Hi, I'm Cynthia Kamau. At the intersection of cybersecurity and data analytics, I build systems that protect vulnerable communities while empowering decision-makers.
@@ -19,13 +17,11 @@ Hi, I'm Cynthia Kamau. At the intersection of cybersecurity and data analytics, 
 - 🌍 **Context-Aware Solutions**: Tailored for challenging environments (tested in Garissa's conflict zones)
 - 🤝 **Human-Centric Tech**: Trained 200+ staff on secure data practices
 
-</div>
 
 ---
 
 ## **Core Capabilities**
 
-<div class="skills-grid">
 
 ### **Cybersecurity**
 - Vulnerability management (Qualys)
@@ -41,8 +37,6 @@ Hi, I'm Cynthia Kamau. At the intersection of cybersecurity and data analytics, 
 - ODK/Kobo toolbox deployment
 - Low-bandwidth solutions
 - Cross-cultural user training
-  
-</div>
 
 ---
 
