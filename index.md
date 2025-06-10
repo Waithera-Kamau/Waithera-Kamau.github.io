@@ -33,9 +33,9 @@ But here’s the thing—I love learning. Whether it’s diving into the latest 
 
 ## The Fun Side of Me
 When I’m not untangling digital dilemmas, you’ll find me:
-📖 Lost in books—Classics like *Pride and Prejudice* or thrillers that keep me up way too late ("Just one more chapter!").
-🍳 Cooking & baking—Because nothing says "I care" like a homemade carrot cake (or a slightly burnt cookie… we don’t talk about those).
-🐱🐶 Adoring furry friends—Cats with attitude, dogs with endless zoomies—if it has paws, I’m obsessed.
-✒️ Doodling & calligraphy—Turning words into art, one fancy flourish at a time.
+- 📖 Lost in books—Classics like *Pride and Prejudice* or thrillers that keep me up way too late ("Just one more chapter!").
+- 🍳 Cooking & baking—Because nothing says "I care" like a homemade carrot cake (or a slightly burnt cookie… we don’t talk about those).
+- 🐱🐶 Adoring furry friends—Cats with attitude, dogs with endless zoomies—if it has paws, I’m obsessed.
+- ✒️ Doodling & calligraphy—Turning words into art, one fancy flourish at a time.
 
 **Life’s too short not to enjoy the little things—whether it’s a perfectly brewed cup of tea, a suspenseful plot twist, or the joy of a wagging tail. 😊**
