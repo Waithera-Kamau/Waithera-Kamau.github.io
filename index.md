@@ -8,9 +8,6 @@ author_profile: true
 
 > Welcome to my digital home
 
-## The Story Behind the Data
-Every spreadsheet tells a story. Every vulnerability patched protects someone's livelihood. Every dashboard I built bridged the gap between raw information and life-changing decisions.
-
 **I'm Cynthia Kamau, and I am a cybersecurity enthusiast**
 
 ## 🎯From Numbers to Impact
