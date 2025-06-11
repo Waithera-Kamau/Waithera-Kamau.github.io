@@ -26,4 +26,18 @@ excerpt: "Where data meets security – building solutions that create real impa
 *Tools: Moda, React, PowerApps, Tableau*  
 - Designed data collection tools for 50+ key informant interviews  
 - Visualized conflict patterns that shaped UN peacekeeping strategies  
-- **Key Impact:** Contributed to 40% reduction in community violence incidents  
+- **Key Impact:** Contributed to 40% reduction in community violence incidents
+
+---
+
+### 💾 Hard Drive Failure Prediction Using XGBoost
+**Role:** Data Scientist | Final Year Project 2023  
+*Tools:* Python (XGBoost, TensorFlow), SMOTE, SHAP, Flask 
+- Achieved **94% recall** predicting failures 7 days in advance using Backblaze dataset (2.5M+ samples)
+- Engineered **18 predictive features** from SMART attributes including:
+  - `Reallocated_Sector_Count` velocity trends
+  - `Spin_Retry_Count` exponential moving averages
+  - Novel composite metric: `Read_Error_Rate × Power_On_Hours`
+- Reduced false positives by **22%** via Bayesian threshold optimization
+
+---
