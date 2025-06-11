@@ -21,7 +21,7 @@ excerpt: "Where data meets security – building solutions that create real impa
 
 ---
 
-### ☮️ **Promoting Peace and Development Initiative**  
+### ☮️ **Promoting Peace and Inclusive Development**  
 **Role:** Data Visualization Specialist | 2025  
 *Tools: Moda, React, PowerApps, Tableau*  
 - Designed data collection tools for 50+ key informant interviews  
