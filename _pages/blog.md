@@ -10,7 +10,6 @@ excerpt: "Welcome to my lab challenges section! Here you'll find detailed writeu
 
 ## Week 1: Examining TCP/IP and OSI Models in Action
 
-**Date:** February 2025  
 **Category:** Network Protocols, Packet Analysis  
 **Difficulty:** Beginner  
 
@@ -76,7 +75,6 @@ This lab successfully demonstrated the practical application of networking funda
 
 ## Week 2: Building a Switch and Router Network
 
-**Date:** February 2025  
 **Category:** Network Configuration, Cisco IOS  
 **Difficulty:** Intermediate  
 
@@ -198,7 +196,6 @@ The lab particularly strengthened my understanding of inter-VLAN routing, defaul
 
 ## Week 3: Web Requests and HTTP Protocol Analysis
 
-**Date:** February 2025  
 **Category:** Web Security, HTTP/HTTPS Protocols, API Testing  
 **Difficulty:** Intermediate-Advanced  
 
