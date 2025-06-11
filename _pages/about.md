@@ -5,7 +5,7 @@ permalink: /about/
 header:
   overlay_color: "#1a2d4f"
   overlay_image: /assets/images/blog2.jpg  # Suggested: You working on a dashboard or secure server
-excerpt: "I turn complex data into secure solutions that drive humanitarian impact."
+excerpt: "I live where data whispers secrets and security shouts solutions."
 ---
 
 ## **Data Guardian. Storyteller. Problem-Solver.**
