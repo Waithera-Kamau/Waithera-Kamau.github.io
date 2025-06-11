@@ -30,10 +30,6 @@ I approached this challenge by:
 ### Tools Used
 
 - **Cisco Packet Tracer**: For network simulation and traffic visualization
-- **HTTP Protocol**: To generate web traffic for analysis
-- **DNS Protocol**: For domain name resolution observation
-- **ARP Protocol**: For MAC address resolution
-- **TCP Protocol**: For connection establishment and teardown
 
 ### Key Findings
 
@@ -110,9 +106,6 @@ My systematic approach included:
 ### Tools Used
 
 - **Cisco Packet Tracer**: For network simulation and device configuration
-- **Cisco IOS CLI**: Command-line interface for device configuration
-- **Ping Utility**: For connectivity testing and troubleshooting
-- **Show Commands**: For verification and information gathering
 
 ### Configuration Details
 
@@ -194,16 +187,6 @@ Switch(config)# ip default-gateway 192.168.2.1
 - **IPv6 Configuration**: Enabling IPv6 routing for dual-stack functionality
 - **Troubleshooting**: Systematically diagnosing connectivity issues
 
-### Network Verification Commands
-
-```cisco
-R1# show ip route
-R1# show ip interface brief
-R1# show ipv6 interface brief
-R1# show ip interface g0/0/1
-S1# show ip interface brief
-```
-
 ### Conclusion
 
 This hands-on lab successfully tested my ability to configure Cisco networking equipment independently. By building the network from scratch without step-by-step guidance, I demonstrated proficiency in IOS commands, network design principles, and systematic troubleshooting. The experience reinforced the importance of proper planning, security implementation, and thorough verification in network deployments.
@@ -250,8 +233,7 @@ My methodology included:
 - **cURL**: Command-line tool for making HTTP requests
 - **Browser DevTools**: Chrome/Firefox developer tools for traffic analysis
 - **HTB Academy Platform**: Hands-on learning environment
-- **Burp Suite Concepts**: Understanding proxy-based testing
-- **Various HTTP Methods**: GET, POST, PUT, DELETE for API testing
+- **VMWare Kali Linux**: Hands on environment to practice and answer questions
 
 ### Key Technical Concepts Explored
 
@@ -435,8 +417,3 @@ The progression from basic HTTP concepts to complex API interactions demonstrate
 ---
 
 *These lab challenges represent my ongoing journey in cybersecurity education, demonstrating both technical proficiency and analytical thinking in network security and web application testing.*
-
-- [Medium](https://medium.com/@ythera32): Poetry and short stories on self-journey  
-- [LinkedIn](https://www.linkedin.com/in/waithera-kamau/): Posts on my Cybershujaa journey
-
-*"Sharing knowledge is cybersecurity's first line of defense."*  
