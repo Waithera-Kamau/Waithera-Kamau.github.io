@@ -5,5 +5,7 @@ main:
     url: /education/
   - title: "Experience"
     url: /experience/
+  - title: "Projects"
+    url: /projects/
   - title: "Blogs"
     url: /blog/
