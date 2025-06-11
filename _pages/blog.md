@@ -30,7 +30,7 @@ Step-by-step guide to transitioning teams from spreadsheets to interactive dashb
 
 ## Writing Elsewhere
 
-- [Medium](https://medium.com/@ythera32): Shorter technical explainers on cloud security  
-- [GitHub Wiki](https://github.com/Waithera-Kamau/wiki): Open-source documentation for my tools  
+- [Medium](https://medium.com/@ythera32): Poetry and short stories on self-journey  
+- [LinkedIn](https://www.linkedin.com/in/waithera-kamau/): Posts on my Cybershujaa journey
 
 *"Sharing knowledge is cybersecurity's first line of defense."*  
