@@ -58,14 +58,6 @@ During the analysis, I discovered several important networking concepts:
 - Data is encapsulated as it moves down the stack
 - Decapsulation occurs in reverse order at the destination
 
-### Screenshots and Evidence
-
-The lab included detailed packet captures showing:
-- OSI Model tab displaying layer-specific information
-- Outbound PDU Details revealing protocol-specific data
-- TCP connection establishment and teardown sequences
-- DNS query and response transactions
-
 ### Key Lessons Learned
 
 1. **Layered Architecture Importance**: Understanding how each layer has specific responsibilities makes troubleshooting more systematic
@@ -83,6 +75,7 @@ The lab included detailed packet captures showing:
 
 This lab successfully demonstrated the practical application of networking fundamentals. By observing actual HTTP traffic through the lens of both OSI and TCP/IP models, I gained a deeper appreciation for how modern internet communication works. The visualization capabilities of Packet Tracer made abstract concepts tangible and reinforced the importance of understanding layered network architectures.
 
+[View Full Writeup](/assets/images/Week One Assignment 1-Examine TCP_IP and OSI Models in Action.pdf){: .btn .btn--info target="_blank"}
 ---
 
 ## Week 2: Building a Switch and Router Network
@@ -217,6 +210,7 @@ This hands-on lab successfully tested my ability to configure Cisco networking e
 
 The lab particularly strengthened my understanding of inter-VLAN routing, default gateway configuration, and the critical role routers play in enabling communication between different network segments.
 
+[View Full Writeup](/assets/images/Week Two Assignment 1-Packet Tracer - Build a Switch and Router Network.pdf){: .btn .btn--info target="_blank"}
 ---
 
 ## Week 3: Web Requests and HTTP Protocol Analysis
@@ -437,6 +431,7 @@ The hands-on approach of analyzing real traffic, manipulating requests, and unde
 
 The progression from basic HTTP concepts to complex API interactions demonstrates the depth of understanding required for effective cybersecurity work, and I'm confident this foundation will support continued growth in the field.
 
+[View Full Writeup](/assets/images/Week Three Assignment 2-HTB Academy - Web Requests.pdf){: .btn .btn--info target="_blank"}
 ---
 
 *These lab challenges represent my ongoing journey in cybersecurity education, demonstrating both technical proficiency and analytical thinking in network security and web application testing.*
