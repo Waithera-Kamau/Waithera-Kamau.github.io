@@ -10,8 +10,6 @@ excerpt: "Validating expertise through industry-recognized credentials."
 
 ## Cybersecurity Certifications
 
-<div class="cert-grid">
-
 [![(ISC)² Certified in Cybersecurity](https://img.shields.io/badge/(ISC)²-Certified_in_Cybersecurity-blue?logo=isc2&logoColor=white)](https://www.credly.com/badges/1467a677-9e9a-4c43-8871-05175f4a8c7a)  
 *Issued by (ISC)²*  
 - Demonstrates foundational cybersecurity knowledge  
@@ -22,11 +20,7 @@ excerpt: "Validating expertise through industry-recognized credentials."
 - Threat intelligence fundamentals  
 - Security infrastructure and compliance  
 
-</div>
-
 ## Cloud & Technical Certifications
-
-<div class="cert-grid">
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazonaws)](https://www.credly.com/badges/6a80b830-01d5-4002-9a94-8e52ef516d63)  
 *Issued by Amazon Web Services*  
@@ -34,8 +28,6 @@ excerpt: "Validating expertise through industry-recognized credentials."
 - AWS security best practices  
 
 "Certifications are mile markers – proof of the skills I bring to every project."
-
-</div>
 
 ## Academic Credentials
 
@@ -49,8 +41,6 @@ excerpt: "Validating expertise through industry-recognized credentials."
 
 ## Continued Learning
 
-<div class="learning-timeline">
-
 ### **Cybershujaa**  
 *Cloud & Network Security | May 2025 - Present*  
 - Advanced threat detection techniques  
@@ -60,7 +50,5 @@ excerpt: "Validating expertise through industry-recognized credentials."
 *Cloud Engineering | May 2025 - Present*  
 - GCP architecture optimization  
 - DevOps automation pipelines  
-
-</div>
 
 ---
