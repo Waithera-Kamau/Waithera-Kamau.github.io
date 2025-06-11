@@ -10,8 +10,6 @@ excerpt: "From cybersecurity to data analytics – building solutions that drive
 
 ## Professional Journey
 
-<div class="timeline">
-
 ### **World Food Programme | UN Complex Gigiri-Nairobi**  
 **Data & Cybersecurity Analyst**  
 *July 2024 – March 2025*  
