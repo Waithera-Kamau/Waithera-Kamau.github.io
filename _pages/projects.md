@@ -10,8 +10,6 @@ excerpt: "Where data meets security – building solutions that create real impa
 
 ## Featured Projects
 
-<div class="project-grid">
-
 ### 🛰️ **Asset Impact Monitoring from Space**
 **Role:** Geospatial Data Lead and Lead Data Analyst | 2025 
 *Tools: Google Earth Pro, Python, Power BI,Tableau, ODK, Kobo Collect*  
@@ -29,5 +27,3 @@ excerpt: "Where data meets security – building solutions that create real impa
 - Designed data collection tools for 50+ key informant interviews  
 - Visualized conflict patterns that shaped UN peacekeeping strategies  
 - **Key Impact:** Contributed to 40% reduction in community violence incidents  
-
-</div>
