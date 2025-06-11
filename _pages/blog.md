@@ -30,29 +30,6 @@ I approached this challenge by:
 
 - **Cisco Packet Tracer**: For network simulation and traffic visualization
 
-### Key Findings
-
-During the analysis, I discovered several important networking concepts:
-
-**HTTP Request Flow:**
-- Client initiates request to `www.osi.local`
-- DNS resolution maps domain to IP `192.168.1.254`
-- TCP connection established on port 80
-- HTTP GET request sent for root path `/`
-- Server responds with HTML content and status code 200 OK
-
-**Layer Mapping Observations:**
-- **Layer 7 (Application)**: HTTP request/response with host information
-- **Layer 4 (Transport)**: TCP with source port 1025 and destination port 80
-- **Layer 3 (Network)**: IP headers with source `192.168.1.1` and destination `192.168.1.254`
-- **Layer 2 (Data Link)**: Ethernet II frames with MAC addresses
-- **Layer 1 (Physical)**: Frame transmission over network medium
-
-**PDU Encapsulation Process:**
-- Each layer adds its own header information
-- Data is encapsulated as it moves down the stack
-- Decapsulation occurs in reverse order at the destination
-
 ### Key Lessons Learned
 
 1. **Layered Architecture Importance**: Understanding how each layer has specific responsibilities makes troubleshooting more systematic
@@ -90,35 +67,9 @@ The lab involved:
 - **2 PCs** on different subnets requiring inter-VLAN communication
 - **Multiple interfaces** requiring configuration and verification
 
-### Approach
-
-My systematic approach included:
-
-1. **Physical Setup**: Properly cabled the network according to topology requirements
-2. **Device Initialization**: Cleared all previous configurations to start fresh
-3. **Security Configuration**: Implemented passwords, banners, and access controls
-4. **Interface Configuration**: Assigned IP addresses and activated interfaces
-5. **Routing Setup**: Enabled IPv6 routing and configured default gateways
-6. **Connectivity Testing**: Verified end-to-end communication between subnets
-
 ### Tools Used
 
 - **Cisco Packet Tracer**: For network simulation and device configuration
-
-**Routing Table Analysis:**
-- Two directly connected networks (C code) in routing table
-- GigabitEthernet interfaces properly configured and operational
-- IPv6 routing enabled for dual-stack capability
-
-**Interface Status Verification:**
-- All interfaces showing "up/up" status
-- Correct IP addressing assigned per topology
-- MAC addresses properly displayed in interface information
-
-**Connectivity Results:**
-- Initial ping failures before router configuration (expected)
-- Successful inter-subnet communication after configuration
-- ARP resolution working correctly on first successful ping
 
 ### Troubleshooting Insights
 
@@ -159,48 +110,12 @@ The lab particularly strengthened my understanding of inter-VLAN routing, defaul
 
 Analyze and understand web application communication protocols through hands-on exploration of HTTP/HTTPS traffic. The challenge involved mastering web request methods, understanding protocol security mechanisms, and learning to manipulate web traffic for security testing purposes. This included working with authentication mechanisms, API interactions, and various HTTP methods.
 
-### Learning Objectives
-
-The lab focused on several key areas:
-- HTTP/HTTPS protocol fundamentals and security differences
-- URL structure and component analysis
-- Request/response lifecycle and status codes
-- HTTP headers and their security implications
-- Authentication mechanisms and session management
-- API testing with CRUD operations
-- Command-line tools for web security testing
-
-### Approach
-
-My methodology included:
-
-1. **Protocol Analysis**: Deep dive into HTTP vs HTTPS differences
-2. **Tool Mastery**: Learning cURL command-line options and browser DevTools
-3. **Traffic Inspection**: Analyzing request/response headers and body content
-4. **Authentication Testing**: Working with basic auth and session cookies
-5. **API Interaction**: Performing CRUD operations on test endpoints
-6. **Security Assessment**: Understanding common web vulnerabilities
-
 ### Tools Used
 
 - **cURL**: Command-line tool for making HTTP requests
 - **Browser DevTools**: Chrome/Firefox developer tools for traffic analysis
 - **HTB Academy Platform**: Hands-on learning environment
 - **VMWare Kali Linux**: Hands on environment to practice and answer questions
-
-### Key Findings
-
-**Protocol Behavior:**
-- HTTP requests are stateless by nature
-- HTTPS adds significant security but requires proper certificate management
-- Session management through cookies maintains state across requests
-- API design follows RESTful principles for predictable interactions
-
-**Tool Effectiveness:**
-- cURL provides powerful command-line flexibility for automation
-- Browser DevTools offer visual inspection capabilities
-- Verbose flags reveal detailed protocol communications
-- Header manipulation enables advanced testing scenarios
 
 ### Challenges Faced
 
