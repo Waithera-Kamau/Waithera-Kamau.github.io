@@ -6,10 +6,6 @@ layout: home
 author_profile: true
 ---
 
-> Welcome to my digital home
-
-**I'm Cynthia Kamau, and I am a cybersecurity enthusiast**
-
 ## 🎯From Numbers to Impact
 At the World Food Programme, I didn't just analyze data—I traced the digital threads that connected donors to hungry families, logistics to life-saving supplies, and security protocols to the protection of the world's most vulnerable populations.
 
