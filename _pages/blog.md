@@ -10,8 +10,6 @@ excerpt: "Where data meets security – sharing lessons from the field."
 
 ## Featured Articles
 
-<div class="blog-preview">
-
 ### [Securing Humanitarian Data: Lessons from WFP](/blog/wfp-security)  
 **Published:** May 2025 | **Tags:** #Cybersecurity #NGOs  
 How we protected sensitive beneficiary data while maintaining accessibility for field teams. Includes Qualys implementation case study.
@@ -27,8 +25,6 @@ Why traditional data visualization fails in fragile contexts, and the design pri
 ### [From Excel to Power BI: A Field Analyst's Journey](/blog/powerbi-migration)  
 **Published:** January 2025 | **Tags:** #DataTools #CapacityBuilding  
 Step-by-step guide to transitioning teams from spreadsheets to interactive dashboards without losing historical data.
-
-</div>
 
 ---
 
