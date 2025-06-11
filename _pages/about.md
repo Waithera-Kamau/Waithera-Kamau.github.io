@@ -48,4 +48,4 @@ When I'm not securing systems or building dashboards:
 
 *"Data without security is risk. Security without insight is waste. I bridge both worlds."*
 
-[View Full CV](/assets/images/cynthiakamauresume.pdf){: .btn .btn--info target="_blank"}
+[View Full CV](/assets/images/cynthia kamau resume.pdf){: .btn .btn--info target="_blank"}
